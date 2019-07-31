@@ -1,2 +1,0 @@
-INSERT INTO `admin_users` VALUES (1, 'admin', '$2y$10$bLk5A1Fggo8xUnoydjXI1uBYmbe.m9zn5MAAR3X0QbXJsN7zqI/Au', 'Administrator', NULL, '8HbFeEwV40oeFHGZLWgLqTaKS8VkRrR3JlIEUPLxdBtgMMCJ23MCorUHkFdZ', '2019-7-18 06:44:18', '2019-7-18 06:44:18');
-INSERT INTO `admin_users` VALUES (2, 'operator', '$2y$10$PzdiywFrxDsCIDA1nFkvAeRK7dwQnp3PyHSiYxvMbWbGEh1v4uQE2', '运营', NULL, 'ecY3fDlzrvxu27pcdynXhJ67Xet7hBHzLmYJosyt7egQiFSYeO3tCehfGNru', '2019-7-18 08:03:06', '2019-7-18 08:03:06');
